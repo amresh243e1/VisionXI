@@ -1,2 +1,0 @@
-# VisionXI
-tracking playerdata
