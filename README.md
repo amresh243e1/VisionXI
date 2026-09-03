@@ -66,20 +66,9 @@ The detected and tracked players can be used to analyze:
 - Automatische talentanalyse
 
 ## Project Structure
-VisionXI/
-│
-├── data/
-├── src/
-├── tests/
-├── app.py
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── README.md
-└── LICENSE
 
 
-###Team
-####DataVision
-####VisionXI
-Polytechnic College Suriname (PTC)
+
+### Team 4
+#### DataVision
+#### VisionXI
