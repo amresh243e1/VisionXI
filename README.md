@@ -19,3 +19,67 @@ The system is designed to help coaches and football clubs in Suriname get more i
 - Classification
 
   
+### Pipeline
+
+
+### Technologies
+
+- Python
+- YOLOv8
+- OpenCV
+- ByteTrack / DeepSORT
+- Roboflow
+- Pandas
+- NumPy
+- GitHub
+
+### Data
+
+The project uses football match and training videos. Frames are extracted from the videos and players are labeled using bounding boxes.
+
+### The dataset is divided into:
+
+- Training set
+- Validation set
+- Test set
+  
+### Performance Analysis
+
+The detected and tracked players can be used to analyze:
+
+- Player movement
+- Positioning
+- Player involvement
+- Challenges
+
+### Some challenges during development include:
+
+- Resolved web app errors
+- Referees were detected as Team A, and both teams as Team B
+- Player analysis takes too long
+- Long videos take too long to load
+
+### Future Improvements
+- Ball tracking 
+- Heatmaps 
+- Uitgebreidere performance-analyse 
+- Automatische talentanalyse
+
+## Project Structure
+VisionXI/
+│
+├── data/
+├── src/
+├── tests/
+├── app.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── README.md
+└── LICENSE
+
+
+###Team
+####DataVision
+####VisionXI
+Polytechnic College Suriname (PTC)
